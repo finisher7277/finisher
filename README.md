@@ -1,8 +1,4 @@
 
-edit
-play_arrow
-
-brightness_4
 <html> 
    <head> 
       <script> 
@@ -38,9 +34,9 @@ brightness_4
   
          input[type="button"] 
          { 
-         background-color:green; 
+         background-color:red; 
          color: black; 
-         border: solid black 2px; 
+         border: white 4px; 
          width:100% 
          } 
   
@@ -54,7 +50,7 @@ brightness_4
    </head> 
    <!-- create table -->
    <body> 
-      <div class = title >CALCULATOR BY ANKUSH GUPTA</div> 
+      <div class = title > CALCULATOR BY ANKUSH GUPTA </div> 
       <table border="1"> 
          <tr> 
             <td colspan="3"><input type="text" id="result"/></td> 
