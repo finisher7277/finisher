@@ -54,7 +54,7 @@ brightness_4
    </head> 
    <!-- create table -->
    <body> 
-      <div class = title >GeeksforGeeks Calculator</div> 
+      <div class = title >CALCULATOR BY ANKUSH GUPTA</div> 
       <table border="1"> 
          <tr> 
             <td colspan="3"><input type="text" id="result"/></td> 
